@@ -46,7 +46,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -110,4 +110,10 @@ deploy:
   type: git
   repo: git@github.com:seekerzhz/seekerzhz.github.io.git
   branch: main
-  
+
+mathjax:
+  enable: true
+
+markdown:
+  plugins:
+    - markdown-it-mathjax3

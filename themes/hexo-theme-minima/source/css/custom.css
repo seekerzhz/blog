@@ -14,6 +14,27 @@
   font-display: swap; /* Add font-display */
 }
 
+@font-face {
+    font-family: "HYWenHei";
+    font-style: normal;
+    font-weight: 400;
+
+    src:
+      url("../fonts/HYWenHei-85W.woff2") format("woff2"),
+      url("../fonts/HYWenHei-85W.ttf") format("truetype");
+
+    font-display: swap;
+}
+@font-face {
+    font-family: "Consolas";
+    font-style: normal;
+    font-weight: 400;
+
+    src:
+      url("../fonts/Consolas-Regular.ttf") format("truetype");
+
+    font-display: swap;
+}
 /* inter-regular - latin */
 @font-face {
   font-family: 'Inter';

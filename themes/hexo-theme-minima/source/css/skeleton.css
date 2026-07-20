@@ -27,7 +27,7 @@
 .container {
   position: relative;
   width: 100%;
-  max-width: 900px;
+  max-width: 720px; 
   margin: 0 auto;
   padding: 0 30px;
   box-sizing: border-box;
@@ -202,8 +202,8 @@ body {
 
   font-family:
     "Consolas",
-    "Inter",
     "Microsoft YaHei",
+    "Inter",
     sans-serif;
 
   color: #222;

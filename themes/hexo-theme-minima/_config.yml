@@ -32,10 +32,10 @@ footer: true
 placename: Earth
 placelink: https://en.wikipedia.org/wiki/Earth
 github: https://github.com/seekerzhz
-linkedin: https://linkedin.com/in/seekerzhz
-twitter: https://twitter.com/seekerzhz
-instagram: https://instagram.com/seekerzhz
-stackoverflow: https://stackoverflow.com/story/seekerzhz
+#linkedin: https://linkedin.com/in/seekerzhz
+#twitter: https://twitter.com/seekerzhz
+#instagram: https://instagram.com/seekerzhz
+#stackoverflow: https://stackoverflow.com/story/seekerzhz
 
 # Misc
 nanobar: /js/nanobar.min.js
@@ -46,7 +46,7 @@ switch_dark: 🌑
 picjs: /js/pic.min.js
 
 # favicon
-favicon: /images/海报船长.ico
+favicon: /images/H-icon.png
 # thumbnail
 thumbnail: /images/thumbnail.jpg
 

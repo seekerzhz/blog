@@ -2,7 +2,7 @@
 title: CURP共识算法详解-00-CURP理论
 abbrlink: 5526
 date: 2026-07-21 15:04:38
-tags:
+tags: 技术
 ---
 
 - 论文来源: Exploiting Commutativity For Practical Fast Replication

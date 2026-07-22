@@ -1,6 +1,6 @@
 ---
 title: 博客往事
-tags: 技术
+tags: 文章
 abbrlink: 46496
 date: 2026-07-07 14:17:51
 ---
